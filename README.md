@@ -3,4 +3,4 @@
 
 **📋 Description:**  
 
-This folder is created on github so that I can host my images for gcodepen here. As copying from other sites does not provide any future proof way of using the image on codepen.
+This folder is created on Git Hub so that I can host my images for gcodepen here. Copying from other sites does not provide any future-proof way of using the image on codepen.
